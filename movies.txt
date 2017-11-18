@@ -1,0 +1,63 @@
+<html>
+<head>
+	<link rel="stylesheet"  href="../stylesheet.css">
+	
+
+</head>
+<body>
+<h1 align="center" style="font-size: 80px;">Movies</h1>
+
+<p style="color: darkblue;font-size: 60px;"> GODFATHER</p>
+
+<ul>
+<p style="text-align:center;">Genre: Crime | Drama</p>
+<p style="text-align:center;">Release date: March 15, 1972</p>
+<p style="text-align:center;">Stars: Marlon, Brando Al Pacino, James Caan</p>
+<li>Description: 
+	 The Godfather is widely regarded as one of the greatest films in world cinema and one of the most influential, especially in the gangster genre. It was selected for preservation in the U.S. National Film Registry of the Library of Congress in 1990, being deemed "culturally, historically, or aesthetically significant" and is ranked the second-greatest film in American cinema (behind Citizen Kane) by the American Film Institute. It was followed by sequels The Godfather Part II (1974) and The Godfather Part III (1990).</li>
+</ul>
+<a href="http://www.imdb.com/title/tt2381941/?ref_=nv_sr_1"><img align="middle" src="godfather.jpg"></a>
+<p style="color: darkblue;font-size: 60px;">WONDER</p>
+
+<ul>
+<p style="text-align:center;">Genre: Music comedy | Drama </p>
+<p style="text-align:center;">Release date: November 17, 2017 </p>
+<p style="text-align:center;">Stars:  VJacob Tremblay
+Mandy Patinkin
+Daveed Diggs </p>
+
+
+<li>Description: 
+Wonder is a 2017 American comedy-drama film directed by Stephen Chbosky and written by Steve Conrad, based on the 2012 novel of the same name by R.J. Palacio. The film stars Julia Roberts, Owen Wilson, and Jacob Tremblay, and follows an elementary schooler with Treacher Collins syndrome trying to fit in. Wonder was released in the United States on November 17, 2017, by Lionsgate.</li>
+</ul>
+<a href="http://www.imdb.com/title/tt0232500/?ref_=nv_sr_1"><img align="middle" src="image/Wonder.png" ></a>
+<p style="color: darkblue;font-size: 60px;">EDGE OF TOMORROW</p>
+
+<ul>
+<p style="text-align:center;">Genre:  Action | Adventure | Sci-Fi  </p>
+<p style="text-align:center;">Release date: 5 Juni 2014</p>
+<p style="text-align:center;">Stars: Tom Cruise, Emily Blunt, Bill Paxton</p>
+<li>Description:
+Edge of Tomorrow is described by the director himself as "Groundhog Day meets Starship Troopers". The former mentioned is actually quite important since the trailers made this film look pretty dark, which is not the case. This is fun action film with lots of humor. Humor that perfectly fits this film. The time-loop allows the Cruise's Colonel Cage to remember exactly the situation he repeats over and over, which is many times very funny. At films with time-loop I am alway worried that the film might get repetitive. Well you don't have to when Doug Liman is at helm. The film has no time to get repetitive when it is moving at such fast pace. An action scene follows an actions and the scope is just mind blowing. This film packs in so much in just two hours. Other films usually keep the best scenes for the big finale. In Edge of Tomorrow all the action scenes are the best scenes of the film.</li>
+</ul>
+<a href="http://www.imdb.com/title/tt1631867/?ref_=nv_sr_2"><img align="center" src="Edge.jpg"></a>
+
+<p style="color: darkblue;font-size: 60px;">BABY DRIVER</p>
+
+<ul>
+<p style="text-align:center;">Genre:  Action | Crime | Music | Thriller</p>
+<p style="text-align:center;">Release date: 24 August 2017</p>
+<p style="text-align:center;">Stars: Ansel Elgort, Jon Bernthal, Jon Hamm</p>
+<li>Description:
+Everything about the film is pretty much pitch perfect if you ask me. Lets start with the cars. I have not been a fan of Fast and Furious films, but the chase scenes in this film run circles around that series if a certain reality of the moves matters to you. This is more in line with Bullit,French Connection, and the Italian Job films as far as great chases.
+
+The music, fun, simply fun. Songs from every decade of my lifetime. 
+
+Action best pure adrenaline action in years. You will be truly on the edge of your seat during much of the film.
+
+Humor, what can I say, love Edgar Wright's humor and this is his best.</li>
+</ul>
+<a href="http://www.imdb.com/title/tt3890160/?ref_=nv_sr_1"><img src="Baby.jpg"></a>
+<a href="../index.html"><p align="center" style="color: grey;background-color: #95cdde;padding: 7px;"> Home</p></a>
+</body>
+</html>
